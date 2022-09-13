@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+}
